@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-dericks-tasks/static/css/main.4d3291c0.css",
+    "main.js": "/react-dericks-tasks/static/js/main.0e40e405.js",
+    "index.html": "/react-dericks-tasks/index.html",
+    "main.4d3291c0.css.map": "/react-dericks-tasks/static/css/main.4d3291c0.css.map",
+    "main.0e40e405.js.map": "/react-dericks-tasks/static/js/main.0e40e405.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d3291c0.css",
+    "static/js/main.0e40e405.js"
+  ]
+}
