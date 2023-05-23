@@ -57,7 +57,7 @@ const Form = ({ addCard }) => {
           value={inputText}
           onChange={(event) => setInputText(event.target.value)}
         />
-        <input type="submit" className="form-submit" />
+        <input type="submit" className="form-submit" value="Add Task" />
       </form>
     </div>
   );
