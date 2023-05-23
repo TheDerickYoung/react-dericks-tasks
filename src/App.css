@@ -21,7 +21,7 @@ color: white;
 font-family: arial;
 display: flex;
 align-items: center;
-justify-content: center;
+justify-content: flex-start;
 flex-direction: column;
 }
 
